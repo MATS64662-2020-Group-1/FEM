@@ -147,8 +147,8 @@ equations = {
 material_1 = {
     'name' : 'fluid',
     'values' : {
-        'viscosity' : 1.0,
-        'density' : 1e0,
+        'viscosity' : 0.5,
+        'density' : 5e0,
     },
 }
 
