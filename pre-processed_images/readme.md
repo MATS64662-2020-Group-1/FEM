@@ -1,0 +1,2 @@
+Here i hope to build a simple 2d mesh for josh's steel image.
+The image's grains are clear, and each grain has a different greyscale colour. These are unique and may be assigned a phase number assosiated with a set of materials parameters reliant on temperature. Im unsure yet about how to go about meshing and simulating this. But its an attempt :D 
