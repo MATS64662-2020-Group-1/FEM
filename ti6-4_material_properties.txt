@@ -1,0 +1,26 @@
+## Ti 6-4 (grade 5) room temperature annealed material parameters ## 
+
+# mechanical #
+
+poisson's ratio = 0.342
+
+modulus of elasticity = 113.8 GPa
+
+tensile elastic limit = 880 MPa
+
+ultimate tensile strength = 950 MPa
+
+# Thermal #
+
+Specific heat capacity = 0.5263 J / g * degreeC
+
+conductivity = 6.7 W/m * K
+
+thermal expansion co-eff (roomT = 20 degC) = 8.6 micrometres/metre/degreeC
+ = 8.6e-06 degC^-1
+ 
+Properties found from:
+
+* Materials Properties Handbook: Titanium Alloys, R. Boyer, G. Welsch, and E. W. Collings, eds. ASM International, Materials Park, OH, 1994.
+
+* http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MTP641
