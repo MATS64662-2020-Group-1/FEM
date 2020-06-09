@@ -1,9 +1,0 @@
-*.aux
-*.log
-*.gz
-*.synctex.gz
-*.fls
-*.fdb_latexmk
-*.pdf
-*.out
-FEM.pdf
