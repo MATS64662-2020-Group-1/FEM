@@ -1,6 +1,6 @@
 ## Ti 6-4 (grade 5) room temperature annealed material parameters ## 
 
-# mechanical #
+# Overall mechanical #
 
 poisson's ratio = 0.342
 
@@ -10,7 +10,7 @@ tensile elastic limit = 880 MPa
 
 ultimate tensile strength = 950 MPa
 
-# Thermal #
+# Overall Thermal #
 
 Specific heat capacity = 0.5263 J / g * degreeC
 
@@ -19,8 +19,23 @@ conductivity = 6.7 W/m * K
 thermal expansion co-eff (roomT = 20 degC) = 8.6 micrometres/metre/degreeC
  = 8.6e-06 degC^-1
  
+ # ALPHA PHASE PROPERTIES # HCP
+ 
+ Plastic, 900C
+ c/a = 1.587
+ Critical resolved shear stresses CRSS for strain rate 0.05/s: (MPa)
+ 100.   100.   700.   (prismatic, basal, pyramidal respectively)
+ 
+ # BETA PHASE PROPERTIES # BCC
+ 
+ Plastic, 900C
+ CRSS 0.05/s (MPa)
+ 6.   6.   
+ 
 Properties found from:
 
 * Materials Properties Handbook: Titanium Alloys, R. Boyer, G. Welsch, and E. W. Collings, eds. ASM International, Materials Park, OH, 1994.
 
 * http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MTP641
+
+* C. Zambaldi, "Orientation informed nanoindentation of a-titanium: Indentientation pileup in hexagonal metals deforming by prismatic slip", J. Mater., Vol. 27, No. 1, Jan 14, 2012
