@@ -32,6 +32,8 @@ thermal expansion co-eff (roomT = 20 degC) = 8.6 micrometres/metre/degreeC
  CRSS 0.05/s (MPa)
  6.   6.   
  
+ beta phase 58 GPa for 20% V [pg17, Titanium, Lutjering]
+ 
 Properties found from:
 
 * Materials Properties Handbook: Titanium Alloys, R. Boyer, G. Welsch, and E. W. Collings, eds. ASM International, Materials Park, OH, 1994.
@@ -39,3 +41,5 @@ Properties found from:
 * http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MTP641
 
 * C. Zambaldi, "Orientation informed nanoindentation of a-titanium: Indentientation pileup in hexagonal metals deforming by prismatic slip", J. Mater., Vol. 27, No. 1, Jan 14, 2012
+
+* Lütjering, G. and Williams, J.C., 2007. Titanium. Springer Science & Business Media.
