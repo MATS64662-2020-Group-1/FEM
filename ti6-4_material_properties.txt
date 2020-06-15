@@ -19,6 +19,8 @@ conductivity = 6.7 W/m * K
 thermal expansion co-eff (roomT = 20 degC) = 8.6 micrometres/metre/degreeC
  = 8.6e-06 degC^-1
  
+ Beta-Transus = 980C
+ 
  # ALPHA PHASE PROPERTIES # HCP
  
  Plastic, 900C
