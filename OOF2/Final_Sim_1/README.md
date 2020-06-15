@@ -1,0 +1,3 @@
+# Final Simulation
+
+This is the final simulation. It includes a section of the preprocessed image (Ti64_binary_V7.0.png) with an approximate scale bar included in each contour map. The contour maps include one for temperature diffusion, displacement in the x and y direction and the stresses experienced in the microstructure. The material parameters and other input information can be found in the 'Final Simulation.docx' file. The alpha and beta phase have the correct (or close enough) material parameters assigned to them. The mesh file has also been generated and can be opened using Abaqus. The original mesh and the mesh after the simulation can also be found in this folder.
