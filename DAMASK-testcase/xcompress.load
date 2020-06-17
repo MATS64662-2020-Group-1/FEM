@@ -1,0 +1,8 @@
+fdot -0.005 0 0  0 * 0   0 0 *  stress  * * *   * 0 *   * * 0  time 100 incs 5000 freq 500 
+
+# X compression strain rate 0.005/s (slow)
+# 0 means held, * means free to move.
+# Lateral directions need to be free to expand.
+# strain rate * time is total strain over sim 0.5
+# time needs to be balanced to strain rate to get half strain.
+# freq print out reults every 500 incs
