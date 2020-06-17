@@ -1,52 +1,77 @@
 OOF.Microstructure.Create_From_ImageFile(filename='/home/nanohub/gbowker1/data/results/1648986/Ti64_binary_V6.0.png', microstructure_name='Ti64_binary_V6.0.png', height=automatic, width=automatic)
-OOF.Windows.Graphics.New()
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=0.0)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=0.0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(64.5233333333,299.376666667)], shift=0, ctrl=0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(119.816666667,402.874444444)], shift=0, ctrl=0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(65.9411111111,293.705555556)], shift=0, ctrl=0)
+
 OOF.PixelGroup.New(name='beta', microstructure='Ti64_binary_V6.0.png')
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=0.0)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=0.0)
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=0.0)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=0.0)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(36.4828395062,414.531728395)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(30.8117283951,421.46308642)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(22.6201234568,421.46308642)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(9.3875308642,423.35345679)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(45.934691358,406.970246914)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(69.879382716,422.093209877)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(90.6734567901,434.065555556)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(52.2359259259,433.435432099)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(129.741111111,432.805308642)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(111.467530864,431.545061728)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(110.837407407,402.559382716)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(86.8927160494,413.901604938)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(142.973703704,406.340123457)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(192.75345679,418.942592593)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(153.055679012,384.285802469)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(98.2349382716,328.204814815)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(28.2912345679,306.150493827)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Settings.Scroll.Horizontal(position=167.3278008298755)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(219.848765432,382.395432099)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(263.327283951,405.079876543)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(248.204320988,406.970246914)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(266.477901235,417.052222222)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(274.039382716,404.449753086)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(269.628518519,409.490740741)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(289.792469136,401.299135802)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(284.751481481,371.053209877)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(307.435925926,370.42308642)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(273.409259259,348.998888889)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(202.835432099,320.643333333)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(177.630493827,327.574691358)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(176.370246914,316.862592593)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(212.917407407,279.055185185)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(217.328271605,270.23345679)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(245.053703704,312.451728395)], shift=0, ctrl=1)
+
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(224.889753086,331.985555556)], shift=0, ctrl=1)
 OOF.Graphics_1.Settings.Scroll.Horizontal(position=268.1535269709544)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(309.956419753,207.851234568)], shift=0, ctrl=1)
@@ -239,15 +264,6 @@ OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binar
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(567.834444444,86.71)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(538.061111111,320.643333333)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(511.123333333,330.567777778)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=0.0)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=0.0)
-OOF.Graphics_1.Settings.Zoom.OutFocussed(focus=Point(51.1857201646,377.774526749))
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=0.0)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=0.0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(51.6058024691,378.194609053)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(67.1488477366,372.733539095)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(95.2943621399,355.510164609)], shift=0, ctrl=1)
@@ -255,7 +271,6 @@ OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binar
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(144.864074074,369.792962963)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(115.038230453,384.915925926)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(145.284156379,398.358559671)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=254.38993710691824)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(157.886625514,434.48563786)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(236.862098765,427.344238683)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(212.497325103,410.540946502)], shift=0, ctrl=1)
@@ -268,9 +283,7 @@ OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binar
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(188.972716049,349.208930041)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(193.593621399,329.885144033)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(176.370246914,282.835925926)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=325.2327044025157)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(292.312962963,359.710987654)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=869.433962264151)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(425.479053498,371.473292181)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(480.089753086,399.19872428)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(489.751646091,403.81962963)], shift=0, ctrl=1)
@@ -284,11 +297,9 @@ OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binar
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(495.212716049,366.012222222)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(525.87872428,359.710987654)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(465.386872428,273.594115226)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=1024.0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(567.886954733,341.64744856)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(579.229176955,352.149506173)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(573.768106996,363.491728395)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=278.8)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(580.069341564,226.964979424)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(521.25781893,225.284650206)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(509.495514403,213.942427984)], shift=0, ctrl=1)
@@ -305,7 +316,6 @@ OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binar
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(482.610246914,165.212880658)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(502.354115226,166.053045267)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(512.01600823,161.432139918)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=734.188679245283)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(392.29255144,242.928106996)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(370.448271605,252.169917695)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(357.845802469,251.329753086)], shift=0, ctrl=1)
@@ -313,11 +323,9 @@ OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binar
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(351.124485597,233.686296296)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(317.09781893,227.805144033)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(315.837572016,198.399382716)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=402.5157232704403)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(254.085473251,186.637078189)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(152.84563786,210.581769547)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(163.347695473,204.700617284)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=54.742138364779876)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(98.2349382716,180.755925926)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(111.257489712,206.801028807)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(123.019794239,224.444485597)], shift=0, ctrl=1)
@@ -326,45 +334,28 @@ OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binar
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(109.157078189,176.135020576)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(112.93781893,177.39526749)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(109.157078189,175.294855967)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=0.0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(16.7389711934,255.950658436)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=565.8)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(115.458312757,66.4935390947)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(107.476748971,55.1513168724)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(99.9152674897,40.8685185185)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=315.57232704402514)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(224.25962963,40.448436214)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=502.33962264150944)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(243.163333333,110.182098765)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(247.784238683,94.6390534979)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(341.042510288,124.884979424)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(345.243333333,133.706707819)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=882.3144654088051)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(374.229012346,38.7681069959)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=940.2767295597484)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(441.44218107,92.1185596708)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(448.583580247,101.36037037)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(453.624567901,98.4197942387)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(422.958559671,113.122674897)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(466.227037037,128.665720165)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=1024.0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(579.229176955,125.305061728)], shift=0, ctrl=1)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(579.649259259,60.6123868313)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Vertical(position=697.0)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=814.6918238993711)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(415.397078189,3.48119341564)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=363.87421383647796)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(291.052716049,7.68201646091)], shift=0, ctrl=1)
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=0.0)
 OOF.Graphics_1.Toolbox.Pixel_Select.Burn(source='Ti64_binary_V6.0.png:Ti64_binary_V6.0.png', local_flammability=0.1, global_flammability=0.2, color_space_norm='L1', next_nearest=False, points=[Point(33.962345679,23.6451440329)], shift=0, ctrl=1)
 OOF.PixelGroup.New(name='alpha', microstructure='Ti64_binary_V6.0.png')
 OOF.PixelGroup.AddSelection(microstructure='Ti64_binary_V6.0.png', group='alpha')
-OOF.Graphics_1.Settings.Zoom.Out()
-OOF.Graphics_1.Settings.Zoom.Fill_Window()
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=247.0)
-OOF.Graphics_1.Settings.Zoom.In()
-OOF.Graphics_1.Settings.Scroll.Horizontal(position=191.3702290076336)
 OOF.PixelGroup.Query(microstructure='Ti64_binary_V6.0.png', group='alpha')
 OOF.Material.New(name='beta', material_type='bulk')
 OOF.Property.Parametrize.Mechanical.Elasticity.Isotropic(cijkl=IsotropicRank4TensorEnu(young=120.0,poisson=0.342))
