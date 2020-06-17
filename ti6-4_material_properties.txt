@@ -2,46 +2,46 @@
 
 # Overall mechanical #
 
-poisson's ratio = 0.342
+[1] [2] poisson's ratio = 0.342
 
-modulus of elasticity = 113.8 GPa
+[1] [2] modulus of elasticity = 113.8 GPa
 
-tensile elastic limit = 880 MPa
+[1] [2] tensile elastic limit = 880 MPa
 
-ultimate tensile strength = 950 MPa
+[1] [2] ultimate tensile strength = 950 MPa
 
 # Overall Thermal #
 
-Specific heat capacity = 0.5263 J / g * degreeC
+[1] Specific heat capacity = 0.5263 J / g * degreeC
 
-conductivity = 6.7 W/m * K
+[1] conductivity = 6.7 W/m * K
 
-thermal expansion co-eff (roomT = 20 degC) = 8.6 micrometres/metre/degreeC
+[1] thermal expansion co-eff (roomT = 20 degC) = 8.6 micrometres/metre/degreeC
  = 8.6e-06 degC^-1
  
- Beta-Transus = 980C
+ [1] Beta-Transus = 980C
  
- # ALPHA PHASE PROPERTIES # HCP
- 
+ # ALPHA PHASE PROPERTIES # HCP (all [3])
  Plastic, 900C
  c/a = 1.587
  Critical resolved shear stresses CRSS for strain rate 0.05/s: (MPa)
  100.   100.   700.   (prismatic, basal, pyramidal respectively)
  
- # BETA PHASE PROPERTIES # BCC
- 
+ # BETA PHASE PROPERTIES # BCC (all [3])
  Plastic, 900C
  CRSS 0.05/s (MPa)
  6.   6.   
  
- beta phase 58 GPa for 20% V [pg17, Titanium, Lutjering]
+ [3] beta phase 58 GPa for 20% V [pg17, Titanium, Lutjering]
  
-Properties found from:
+ 
+ 
+# ===== Properties found from: ====== #
 
-* Materials Properties Handbook: Titanium Alloys, R. Boyer, G. Welsch, and E. W. Collings, eds. ASM International, Materials Park, OH, 1994.
+[1] Materials Properties Handbook: Titanium Alloys, R. Boyer, G. Welsch, and E. W. Collings, eds. ASM International, Materials Park, OH, 1994.
 
-* http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MTP641
+[2] http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MTP641
 
-* C. Zambaldi, "Orientation informed nanoindentation of a-titanium: Indentientation pileup in hexagonal metals deforming by prismatic slip", J. Mater., Vol. 27, No. 1, Jan 14, 2012
+[3] C. Zambaldi, "Orientation informed nanoindentation of a-titanium: Indentientation pileup in hexagonal metals deforming by prismatic slip", J. Mater., Vol. 27, No. 1, Jan 14, 2012
 
-* Lütjering, G. and Williams, J.C., 2007. Titanium. Springer Science & Business Media.
+[4] Lütjering, G. and Williams, J.C., 2007. Titanium. Springer Science & Business Media.
